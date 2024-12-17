@@ -45,6 +45,7 @@ import FooterDokter from "./components/FooterDokter.jsx";
 import ProdukList from "./components/produkList.jsx";
 import ProdukListRecom from "./components/produkListRecom.jsx";
 import Datadeskripsiproduk from "./datadeskripsiproduk.jsx";
+import "./file_css/index.css";
 
 const App = () => {
   // Simulasi data user yang sudah login
